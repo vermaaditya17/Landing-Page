@@ -9,7 +9,7 @@ function Navbar() {
 
         {/* Logo */}
         <img 
-          src="../src/assets/logo.svg" 
+          src="/assets/logo.svg" 
           alt="logo" 
           className="w-32"
         />

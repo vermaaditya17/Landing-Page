@@ -39,11 +39,11 @@ function Herosection() {
   };
 
   return (
-    <div className="relative w-full mt-18"> {/* You might need to adjust margin-top based on your fixed Navbar height */}
+    <div className="relative w-full mt-18"> 
       
-      {/* Original image */}
+      
       <img 
-        src="../src/assets/herosection.svg" // Make sure this asset path is correct
+        src="/assets/herosection.svg" 
         className="w-full h-[600px] object-cover"
         alt="Hero background"
       />
